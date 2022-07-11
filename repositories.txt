@@ -10,6 +10,7 @@ https://github.com/ojx/HTTPed
 https://github.com/ncmreynolds/wordwrap
 https://github.com/hardmax/LogToQueue
 https://github.com/wollewald/ADS1220_WE
+https://github.com/WinsonAPP/WinsonLibrary
 https://github.com/DenysChuhlib/NTPtime
 https://github.com/yellobyte/DacESP32
 https://github.com/pangodream/ESP2SOTA
